@@ -9,5 +9,5 @@
 - Формулировка вывода, содержащего рекомендации по проведению рекламных кампаний
 
 # Используемые библиотеки:
-`pandas`, `matplotlib`, `numpy`, `seaborn`
+`pandas`, `matplotlib`, `numpy`, `seaborn`, `scipy`
 
