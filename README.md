@@ -2,7 +2,7 @@
 | Название проекта | Описание | Используемые библиотеки |
 |----------|----------|----------|
 | [Прогнозирование оттока клиентов](https://github.com/kuznetsova-a-a/yandex-practicum-projects/tree/main/customer-churn-forecasting)    | Мы построим модель, предсказывающую, не разорвёт ли клиент контракт с оператором связи   | `pandas`, `numpy`, `matplotlib`, `seaborn`, `phik`, `sklearn`, `lightgbm`, `catboost`   |
-| [Цена автомобиля](https://github.com/kuznetsova-a-a/yandex-practicum-projects/tree/main/car-value-determination)   | Мы построим модель, предсказывающую цену автомобиля по характеристикам  | `pandas`, `sklearn`, `lightgbm`, `catboost`   |
+| [Цена автомобиля](https://github.com/kuznetsova-a-a/yandex-practicum-projects/tree/main/car%20price)   | Мы построим модель, предсказывающую цену автомобиля по характеристикам  | `pandas`, `sklearn`, `lightgbm`, `catboost`   |
 | [Классификация текстов](https://github.com/kuznetsova-a-a/yandex-practicum-projects/tree/main/machine-learning-for-%20texts)   | Мы построим модель, определяющую токсичность текстов (комментариев к товарам интернет-магазина)   |`pandas`, `numpy`, `nltk`, `sklearn`   |
 |[Восстановление золота из руды](https://github.com/kuznetsova-a-a/yandex-practicum-projects/tree/main/recovery-gold-from-ore) | Мы построим прототип модели машинного обучения, которая должна предсказать коэффициент восстановления золота из золотосодержащей руды. |`pandas`, `matplotlib`, `scipy`, `sklearn`|
 |[Заказы такси](https://github.com/kuznetsova-a-a/yandex-practicum-projects/tree/main/taxi-order-forecasting)| Используя временные ряды, мы построим модель для прогнозирования количества заказов такси на следующий час.|`pandas`, `sklearn`, `matplotlib`, `lightgbm`, `catboost`|
